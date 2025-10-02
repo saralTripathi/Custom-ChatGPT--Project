@@ -1,0 +1,4 @@
+[2025-07-06 19:36:31,154] logger - INFO - Flask application starting...
+[2025-07-06 19:36:32,004] werkzeug - WARNING -  * Debugger is active!
+[2025-07-06 19:36:32,004] werkzeug - INFO -  * Debugger PIN: 105-910-726
+[2025-07-06 19:55:25,237] werkzeug - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Downloads\\Custom-Chatgpt-Project\\app\\api_client.py', reloading

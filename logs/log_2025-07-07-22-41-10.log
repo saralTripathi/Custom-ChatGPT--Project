@@ -1,0 +1,12 @@
+[2025-07-07 22:41:10,313] logger - INFO - Flask application starting...
+[2025-07-07 22:41:11,118] werkzeug - WARNING -  * Debugger is active!
+[2025-07-07 22:41:11,122] werkzeug - INFO -  * Debugger PIN: 105-910-726
+[2025-07-07 22:41:20,691] werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 22:41:20] "GET / HTTP/1.1" 200 -
+[2025-07-07 22:41:20,746] werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 22:41:20] "[33mGET /static/images/Apexiq-logo-whitebg.jpeg HTTP/1.1[0m" 404 -
+[2025-07-07 22:41:20,865] werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 22:41:20] "GET /static/css/styles.css HTTP/1.1" 200 -
+[2025-07-07 22:41:20,928] werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 22:41:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2025-07-07 22:41:27,330] httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-07-07 22:41:27,342] werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 22:41:27] "POST /api/chat HTTP/1.1" 200 -
+[2025-07-07 22:41:40,841] httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-07-07 22:41:40,843] werkzeug - INFO - 127.0.0.1 - - [07/Jul/2025 22:41:40] "POST /api/chat HTTP/1.1" 200 -
+[2025-07-07 22:41:52,957] werkzeug - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Downloads\\Custom-Chatgpt-Project\\app\\api_client.py', reloading

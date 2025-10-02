@@ -1,0 +1,11 @@
+app:
+  name: "PW Custom LLM"  # Name of the application
+  version: "1.0.0"    # Version of the application
+
+api:
+  key:"${API_KEY}"   # Placeholder for the API key; it will be replaced by the actual value from environment variables
+
+logging:
+  level:"INFO"
+  log_directory:"logs"
+  log_file_format:"[%(acstime)s] %(name)s - %(levelname)s- %(message)s"

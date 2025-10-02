@@ -1,0 +1,6 @@
+[2025-07-15 19:33:18,438] logger - INFO - Sending messages to Groq API...
+[2025-07-15 19:33:19,552] httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-07-15 19:33:19,568] logger - INFO - Received response from Groq API.
+[2025-07-15 19:33:35,677] logger - INFO - Sending messages to Groq API...
+[2025-07-15 19:33:37,368] httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-07-15 19:33:37,371] logger - INFO - Received response from Groq API.

@@ -1,0 +1,36 @@
+[2025-07-06 19:29:18,466] logger - INFO - Flask application starting...
+[2025-07-06 19:29:19,497] werkzeug - WARNING -  * Debugger is active!
+[2025-07-06 19:29:19,502] werkzeug - INFO -  * Debugger PIN: 105-910-726
+[2025-07-06 19:29:24,595] werkzeug - INFO - 127.0.0.1 - - [06/Jul/2025 19:29:24] "GET / HTTP/1.1" 200 -
+[2025-07-06 19:29:24,626] werkzeug - INFO - 127.0.0.1 - - [06/Jul/2025 19:29:24] "[33mGET /static/images/Apexiq-logo-whitebg.jpeg HTTP/1.1[0m" 404 -
+[2025-07-06 19:29:24,688] werkzeug - INFO - 127.0.0.1 - - [06/Jul/2025 19:29:24] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+[2025-07-06 19:29:29,916] logger - INFO - Sending messages to Groq API...
+[2025-07-06 19:29:30,343] httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+[2025-07-06 19:29:30,343] logger - ERROR - Error communicating with Groq API: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+[2025-07-06 19:29:30,343] werkzeug - INFO - 127.0.0.1 - - [06/Jul/2025 19:29:30] "POST /api/chat HTTP/1.1" 200 -
+[2025-07-06 19:30:20,472] werkzeug - INFO - 127.0.0.1 - - [06/Jul/2025 19:30:20] "GET / HTTP/1.1" 200 -
+[2025-07-06 19:30:20,524] werkzeug - INFO - 127.0.0.1 - - [06/Jul/2025 19:30:20] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+[2025-07-06 19:30:20,528] werkzeug - INFO - 127.0.0.1 - - [06/Jul/2025 19:30:20] "[33mGET /static/images/Apexiq-logo-whitebg.jpeg HTTP/1.1[0m" 404 -
+[2025-07-06 19:30:34,012] logger - INFO - Sending messages to Groq API...
+[2025-07-06 19:30:34,122] httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+[2025-07-06 19:30:34,123] logger - ERROR - Error communicating with Groq API: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+[2025-07-06 19:30:34,123] werkzeug - INFO - 127.0.0.1 - - [06/Jul/2025 19:30:34] "POST /api/chat HTTP/1.1" 200 -
+[2025-07-06 19:35:06,144] werkzeug - INFO - 127.0.0.1 - - [06/Jul/2025 19:35:06] "GET / HTTP/1.1" 200 -
+[2025-07-06 19:35:06,173] werkzeug - INFO - 127.0.0.1 - - [06/Jul/2025 19:35:06] "[33mGET /static/images/Apexiq-logo-whitebg.jpeg HTTP/1.1[0m" 404 -
+[2025-07-06 19:35:06,173] werkzeug - INFO - 127.0.0.1 - - [06/Jul/2025 19:35:06] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+[2025-07-06 19:35:11,517] logger - INFO - Sending messages to Groq API...
+[2025-07-06 19:35:11,651] httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+[2025-07-06 19:35:11,652] logger - ERROR - Error communicating with Groq API: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+[2025-07-06 19:35:11,652] werkzeug - INFO - 127.0.0.1 - - [06/Jul/2025 19:35:11] "POST /api/chat HTTP/1.1" 200 -
+[2025-07-06 19:36:41,624] werkzeug - INFO - 127.0.0.1 - - [06/Jul/2025 19:36:41] "GET / HTTP/1.1" 200 -
+[2025-07-06 19:36:41,644] werkzeug - INFO - 127.0.0.1 - - [06/Jul/2025 19:36:41] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+[2025-07-06 19:36:41,652] werkzeug - INFO - 127.0.0.1 - - [06/Jul/2025 19:36:41] "[33mGET /static/images/Apexiq-logo-whitebg.jpeg HTTP/1.1[0m" 404 -
+[2025-07-06 19:36:45,382] logger - INFO - Sending messages to Groq API...
+[2025-07-06 19:36:45,515] httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+[2025-07-06 19:36:45,515] logger - ERROR - Error communicating with Groq API: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+[2025-07-06 19:36:45,517] werkzeug - INFO - 127.0.0.1 - - [06/Jul/2025 19:36:45] "POST /api/chat HTTP/1.1" 200 -
+[2025-07-06 19:36:55,490] logger - INFO - Sending messages to Groq API...
+[2025-07-06 19:36:55,581] httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+[2025-07-06 19:36:55,582] logger - ERROR - Error communicating with Groq API: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+[2025-07-06 19:36:55,582] werkzeug - INFO - 127.0.0.1 - - [06/Jul/2025 19:36:55] "POST /api/chat HTTP/1.1" 200 -
+[2025-07-06 19:55:24,973] werkzeug - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Downloads\\Custom-Chatgpt-Project\\app\\api_client.py', reloading

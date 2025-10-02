@@ -1,0 +1,8 @@
+[2025-07-06 19:12:41,571] logger - INFO - Flask application starting...
+[2025-07-06 19:12:42,479] werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2025-07-06 19:12:42,480] werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[2025-07-06 19:12:42,483] werkzeug - INFO -  * Restarting with stat
+[2025-07-06 19:29:17,752] werkzeug - INFO -  * Restarting with stat
+[2025-07-06 19:55:25,271] werkzeug - INFO -  * Restarting with stat
+[2025-07-06 20:20:35,716] werkzeug - INFO -  * Restarting with stat

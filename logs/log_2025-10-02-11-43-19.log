@@ -1,0 +1,6 @@
+[2025-10-02 11:43:19,153] logger - INFO - Flask application starting...
+[2025-10-02 11:43:19,185] werkzeug - WARNING -  * Debugger is active!
+[2025-10-02 11:43:19,191] werkzeug - INFO -  * Debugger PIN: 830-463-501
+[2025-10-02 11:43:22,103] werkzeug - INFO - 127.0.0.1 - - [02/Oct/2025 11:43:22] "GET / HTTP/1.1" 200 -
+[2025-10-02 11:43:22,126] werkzeug - INFO - 127.0.0.1 - - [02/Oct/2025 11:43:22] "[33mGET /static/app/static/images/BotVoice%20image.png HTTP/1.1[0m" 404 -
+[2025-10-02 11:43:22,126] werkzeug - INFO - 127.0.0.1 - - [02/Oct/2025 11:43:22] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -

@@ -1,0 +1,11 @@
+[2025-09-28 18:31:28,892] logger - INFO - Flask application starting...
+[2025-09-28 18:31:28,942] werkzeug - WARNING -  * Debugger is active!
+[2025-09-28 18:31:28,952] werkzeug - INFO -  * Debugger PIN: 503-469-399
+[2025-09-28 18:33:58,929] werkzeug - INFO -  * Detected change in '/Users/mack/Downloads/Custom-Chatgpt-Project/app.py', reloading
+erkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 18:33:05] "[33mGET /static/images/Apexiq-logo-whitebg.jpeg HTTP/1.1[0m" 404 -
+[2025-09-28 18:33:05,259] werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 18:33:05] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+[2025-09-28 18:33:10,695] logger - INFO - Sending messages to Groq API...
+[2025-09-28 18:33:11,082] httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+[2025-09-28 18:33:11,083] logger - ERROR - Error communicating with Groq API: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+[2025-09-28 18:33:11,085] werkzeug - INFO - 127.0.0.1 - - [28/Sep/2025 18:33:11] "POST /api/chat HTTP/1.1" 200 -
+[2025-09-28 18:33:59,571] werkzeug - INFO -  * Detected change in '/Users/mack/Downloads/Custom-Chatgpt-Project/app.py', reloading
