@@ -1,0 +1,11 @@
+[2025-10-03 11:42:13,754] logger - INFO - Flask application starting...
+[2025-10-03 11:42:13,789] werkzeug - WARNING -  * Debugger is active!
+[2025-10-03 11:42:13,796] werkzeug - INFO -  * Debugger PIN: 830-463-501
+[2025-10-03 11:42:19,009] werkzeug - INFO - 127.0.0.1 - - [03/Oct/2025 11:42:19] "GET / HTTP/1.1" 200 -
+[2025-10-03 11:42:19,025] werkzeug - INFO - 127.0.0.1 - - [03/Oct/2025 11:42:19] "[33mGET /static/static/images/BotVoice%20image.png HTTP/1.1[0m" 404 -
+[2025-10-03 11:42:19,031] werkzeug - INFO - 127.0.0.1 - - [03/Oct/2025 11:42:19] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+[2025-10-03 11:42:19,070] werkzeug - INFO - 127.0.0.1 - - [03/Oct/2025 11:42:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2025-10-03 11:42:24,504] httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-10-03 11:42:24,525] werkzeug - INFO - 127.0.0.1 - - [03/Oct/2025 11:42:24] "POST /api/chat HTTP/1.1" 200 -
+[2025-10-03 11:43:04,778] httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-10-03 11:43:04,780] werkzeug - INFO - 127.0.0.1 - - [03/Oct/2025 11:43:04] "POST /api/chat HTTP/1.1" 200 -

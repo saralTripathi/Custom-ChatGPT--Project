@@ -1,0 +1,11 @@
+[2025-10-03 11:27:42,964] logger - INFO - Flask application starting...
+[2025-10-03 11:27:42,996] werkzeug - WARNING -  * Debugger is active!
+[2025-10-03 11:27:43,004] werkzeug - INFO -  * Debugger PIN: 503-469-399
+[2025-10-03 11:27:46,660] werkzeug - INFO - 127.0.0.1 - - [03/Oct/2025 11:27:46] "GET / HTTP/1.1" 200 -
+[2025-10-03 11:27:48,670] werkzeug - INFO - 127.0.0.1 - - [03/Oct/2025 11:27:48] "GET / HTTP/1.1" 200 -
+[20[2025-10-03 11:27:53,221] werkzeug - INFO -  * Restarting with stat
+[2025-10-03 11:31:52,518] werkzeug - INFO -  * Restarting with stat
+1.1[0m" 404 -
+[2025-10-03 11:27:48,712] werkzeug - INFO - 127.0.0.1 - - [03/Oct/2025 11:27:48] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+[2025-10-03 11:27:48,765] werkzeug - INFO - 127.0.0.1 - - [03/Oct/2025 11:27:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2025-10-03 11:27:53,144] werkzeug - INFO -  * Detected change in '/Users/mack/Downloads/Custom-Chatgpt-Project/app/api_client.py', reloading
